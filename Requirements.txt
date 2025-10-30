@@ -1,0 +1,7 @@
+Matplotlib
+Numpy
+pillow
+kiwisolver
+fonttools
+cycler
+contourpy
